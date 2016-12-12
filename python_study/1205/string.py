@@ -14,7 +14,6 @@ if username.strip() == "cdp":
 
 
 
-
 # 按照指定的字符拆分字符串
 # ----------------------
 names = "xiaowang,xiaoli,xiaohong"
@@ -95,6 +94,12 @@ print(name.endswith("p"))
 # -----------------------
 print(name.upper())
 print(name.lower())
+
+
+"""
+将一个字符串转换成python的基本数据类型，
+注意：字符串形式的字典'{"key":"values"}'内部的字符串必须是双引号
+"""
 
 
 
