@@ -53,11 +53,13 @@ def myrange(num):
 
 
 ret = myrange(10)
-r = ret.__next__()
-print(r)
-r = ret.__next__()
-print(r)
-r = ret.__next__()
-print(r)
-r = ret.__next__()
-print(r)
+# r = ret.__next__()  # 迭代器
+# print(r)
+# r = ret.__next__()
+# print(r)
+# r = ret.__next__()
+# print(r)
+# r = ret.__next__()
+# print(r)
+for r in ret:  # for循环中封装了迭代器
+    print(r)
