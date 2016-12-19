@@ -1,0 +1,24 @@
+2016-12-16 15:46:35,067 - TEST-LOG - WARNING - warn message
+2016-12-16 15:46:35,068 - TEST-LOG - ERROR - error message
+2016-12-16 15:46:35,068 - TEST-LOG - CRITICAL - critical message
+2016-12-16 15:48:43,026 - TEST-LOG - WARNING - warn message
+2016-12-16 15:48:43,026 - TEST-LOG - ERROR - error message
+2016-12-16 15:48:43,026 - TEST-LOG - CRITICAL - critical message
+2016-12-16 15:48:59,372 - TEST-LOG - WARNING - warn message
+2016-12-16 15:48:59,372 - TEST-LOG - ERROR - error message
+2016-12-16 15:48:59,372 - TEST-LOG - CRITICAL - critical message
+2016-12-16 15:48:59,745 - TEST-LOG - WARNING - warn message
+2016-12-16 15:48:59,745 - TEST-LOG - ERROR - error message
+2016-12-16 15:48:59,745 - TEST-LOG - CRITICAL - critical message
+2016-12-16 15:56:47,054 - TEST-LOG - log.py - WARNING - warn message
+2016-12-16 15:56:47,054 - TEST-LOG - log.py - ERROR - error message
+2016-12-16 15:56:47,054 - TEST-LOG - log.py - CRITICAL - critical message
+2016-12-16 15:58:00,268 - TEST-LOG - log.py - <module>- WARNING - warn message
+2016-12-16 15:58:00,268 - TEST-LOG - log.py - <module>- ERROR - error message
+2016-12-16 15:58:00,268 - TEST-LOG - log.py - <module>- CRITICAL - critical message
+2016-12-16 15:58:23,013 - TEST-LOG - log.py - <module>-54- WARNING - warn message
+2016-12-16 15:58:23,013 - TEST-LOG - log.py - <module>-55- ERROR - error message
+2016-12-16 15:58:23,013 - TEST-LOG - log.py - <module>-56- CRITICAL - critical message
+2016-12-16 16:00:10,160 - TEST-LOG -6600- log.py - <module>-54- WARNING - warn message
+2016-12-16 16:00:10,160 - TEST-LOG -6600- log.py - <module>-55- ERROR - error message
+2016-12-16 16:00:10,160 - TEST-LOG -6600- log.py - <module>-56- CRITICAL - critical message

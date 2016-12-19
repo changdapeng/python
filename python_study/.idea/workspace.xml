@@ -27,7 +27,7 @@
     <SUITE FILE_PATH="coverage/python_study$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1481596852383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1213" />
     <SUITE FILE_PATH="coverage/python_study$module1.coverage" NAME="module1 Coverage Results" MODIFIED="1481790249290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1215" />
     <SUITE FILE_PATH="coverage/python_study$time_manage.coverage" NAME="time_manage Coverage Results" MODIFIED="1481857038403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1216" />
-    <SUITE FILE_PATH="coverage/python_study$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1481787286332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1215" />
+    <SUITE FILE_PATH="coverage/python_study$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1481964916743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1217" />
     <SUITE FILE_PATH="coverage/python_study$while.coverage" NAME="while Coverage Results" MODIFIED="1480932165459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1205" />
     <SUITE FILE_PATH="coverage/python_study$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1481036509303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1206" />
     <SUITE FILE_PATH="coverage/python_study$modules.coverage" NAME="modules Coverage Results" MODIFIED="1481792065521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1215" />
@@ -69,11 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="log.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1216/log.py">
+      <file leaf-file-name="recursion.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1217/recursion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="352">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -91,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1128/hello.py" />
         <option value="$PROJECT_DIR$/1128/templates.py" />
         <option value="$PROJECT_DIR$/1128/getpass.py" />
         <option value="$PROJECT_DIR$/1128/03_getpass.py" />
@@ -142,6 +141,7 @@
         <option value="$PROJECT_DIR$/1216/serialize.py" />
         <option value="$PROJECT_DIR$/1216/time_manage.py" />
         <option value="$PROJECT_DIR$/1216/log.py" />
+        <option value="$PROJECT_DIR$/1217/recursion.py" />
       </list>
     </option>
   </component>
@@ -224,25 +224,7 @@
       <recent name="G:\PyCharm_Project\python_study\1208" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.log">
-    <configuration default="false" name="serialize" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1215" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_study" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1215/serialize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.recursion">
     <configuration default="false" name="pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,6 +293,24 @@
       <module name="python_study" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1216/log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1217" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1217/recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -524,19 +524,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.serialize" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pickle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.serialize (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.time_manage" />
-      <item index="4" class="java.lang.String" itemvalue="Python.log" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pickle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.serialize (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.time_manage" />
+      <item index="3" class="java.lang.String" itemvalue="Python.log" />
+      <item index="4" class="java.lang.String" itemvalue="Python.recursion" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.log" />
-        <item index="1" class="java.lang.String" itemvalue="Python.time_manage" />
-        <item index="2" class="java.lang.String" itemvalue="Python.serialize (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pickle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.serialize" />
+        <item index="0" class="java.lang.String" itemvalue="Python.recursion" />
+        <item index="1" class="java.lang.String" itemvalue="Python.log" />
+        <item index="2" class="java.lang.String" itemvalue="Python.time_manage" />
+        <item index="3" class="java.lang.String" itemvalue="Python.serialize (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pickle" />
       </list>
     </recent_temporary>
   </component>
@@ -607,13 +607,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1128/05_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1129/list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -888,7 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -897,9 +889,6 @@
         <state relative-caret-position="331">
           <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#129#140#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,7 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,9 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="e#218#231#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -925,7 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,16 +917,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1045">
           <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
-          <folding>
-            <element signature="e#69#80#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1216/log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1217/recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
           <folding />
         </state>
       </provider>
