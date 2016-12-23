@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ebf571-c37b-42f0-92a2-6139bbc4766f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1221/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1221/oop1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1221/oop2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1222/OOP3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1222/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1223/OOP4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1223/OOP5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1223/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test_1128.iws" />
@@ -21,6 +23,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_study$inside_function__1_.coverage" NAME="inside_function (1) Coverage Results" MODIFIED="1481448350002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1211" />
     <SUITE FILE_PATH="coverage/python_study$hashlib_module.coverage" NAME="hashlib_module Coverage Results" MODIFIED="1482198703275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1220" />
+    <SUITE FILE_PATH="coverage/python_study$OOP4.coverage" NAME="OOP4 Coverage Results" MODIFIED="1482459282233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1223" />
     <SUITE FILE_PATH="coverage/python_study$regular_expression2.coverage" NAME="regular_expression2 Coverage Results" MODIFIED="1482218313081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1220" />
     <SUITE FILE_PATH="coverage/python_study$pickle.coverage" NAME="pickle Coverage Results" MODIFIED="1481852875129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1216" />
     <SUITE FILE_PATH="coverage/python_study$getpass.coverage" NAME="getpass Coverage Results" MODIFIED="1480316435076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1128" />
@@ -29,6 +32,7 @@
     <SUITE FILE_PATH="coverage/python_study$function.coverage" NAME="function Coverage Results" MODIFIED="1481249298545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1208" />
     <SUITE FILE_PATH="coverage/python_study$function__1_.coverage" NAME="function (1) Coverage Results" MODIFIED="1481270334371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1209" />
     <SUITE FILE_PATH="coverage/python_study$string_format.coverage" NAME="string_format Coverage Results" MODIFIED="1481621694945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1213" />
+    <SUITE FILE_PATH="coverage/python_study$OOP3.coverage" NAME="OOP3 Coverage Results" MODIFIED="1482399137204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1222" />
     <SUITE FILE_PATH="coverage/python_study$s1.coverage" NAME="s1 Coverage Results" MODIFIED="1482139581827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1219" />
     <SUITE FILE_PATH="coverage/python_study$serialize__1_.coverage" NAME="serialize (1) Coverage Results" MODIFIED="1481853683586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1216" />
     <SUITE FILE_PATH="coverage/python_study$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1481596852383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1213" />
@@ -42,6 +46,7 @@
     <SUITE FILE_PATH="coverage/python_study$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1481036509303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1206" />
     <SUITE FILE_PATH="coverage/python_study$comments.coverage" NAME="comments Coverage Results" MODIFIED="1482112703063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1219" />
     <SUITE FILE_PATH="coverage/python_study$modules.coverage" NAME="modules Coverage Results" MODIFIED="1481792065521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1215" />
+    <SUITE FILE_PATH="coverage/python_study$OOP5.coverage" NAME="OOP5 Coverage Results" MODIFIED="1482460994291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1223" />
     <SUITE FILE_PATH="coverage/python_study$templates.coverage" NAME="templates Coverage Results" MODIFIED="1480308089916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1128" />
     <SUITE FILE_PATH="coverage/python_study$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1480923181019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1205" />
     <SUITE FILE_PATH="coverage/python_study$format.coverage" NAME="format Coverage Results" MODIFIED="1481706353625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1214" />
@@ -81,28 +86,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="oop1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1221/oop1.py">
+      <file leaf-file-name="OOP1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1221/OOP1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-              <folding>
-                <marker date="1482312521032" expanded="true" signature="484:2141" placeholder="..." />
-                <marker date="1482312521032" expanded="true" signature="693:843" placeholder="..." />
-                <marker date="1482312521032" expanded="true" signature="889:1173" placeholder="..." />
-                <marker date="1482312521032" expanded="true" signature="1215:1499" placeholder="..." />
-                <marker date="1482312521032" expanded="true" signature="1553:1879" placeholder="..." />
-                <marker date="1482312521032" expanded="true" signature="1913:2141" placeholder="..." />
-              </folding>
+            <state relative-caret-position="352">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oop2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1221/oop2.py">
+      <file leaf-file-name="OOP2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1221/OOP2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="44">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OOP3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1222/OOP3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OOP4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1223/OOP4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OOP5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1223/OOP5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1769686295/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="602" column="0" selection-start-line="602" selection-start-column="0" selection-end-line="602" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,9 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1205/while.py" />
-        <option value="$PROJECT_DIR$/1205/dict.py" />
-        <option value="$PROJECT_DIR$/1206/shopping.py" />
         <option value="$PROJECT_DIR$/1207/set.py" />
         <option value="$PROJECT_DIR$/1207/function.py" />
         <option value="$PROJECT_DIR$/1208/function.py" />
@@ -174,6 +209,9 @@
         <option value="$PROJECT_DIR$/1220/regular_expression2.py" />
         <option value="$PROJECT_DIR$/1221/oop1.py" />
         <option value="$PROJECT_DIR$/1221/oop2.py" />
+        <option value="$PROJECT_DIR$/1222/OOP3.py" />
+        <option value="$PROJECT_DIR$/1223/OOP4.py" />
+        <option value="$PROJECT_DIR$/1223/OOP5.py" />
       </list>
     </option>
   </component>
@@ -256,63 +294,7 @@
       <recent name="E:\Git\python\python_study\1212\ha" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.oop2">
-    <configuration default="false" name="hashlib_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1220" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_study" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1220/hashlib_module.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Doctests in regular_expression" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1220" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_study" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1220/regular_expression.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="regular_expression2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1220" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_study" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1220/regular_expression2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.OOP5">
     <configuration default="false" name="oop1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,7 +308,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_study" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1221/oop1.py" />
+      <option name="SCRIPT_NAME" value="E:\Git\python\python_study\1221\OOP1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -344,7 +326,61 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_study" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1221/oop2.py" />
+      <option name="SCRIPT_NAME" value="E:\Git\python\python_study\1221\OOP2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OOP3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1222" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1222/OOP3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OOP4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1223" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1223/OOP4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OOP5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1223" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1223/OOP5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -558,19 +594,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.hashlib_module" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Doctests in regular_expression" />
-      <item index="2" class="java.lang.String" itemvalue="Python.regular_expression2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.oop1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.oop2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.oop1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.oop2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.OOP3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.OOP4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.OOP5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.oop2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.oop1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.regular_expression2" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Doctests in regular_expression" />
-        <item index="4" class="java.lang.String" itemvalue="Python.hashlib_module" />
+        <item index="0" class="java.lang.String" itemvalue="Python.OOP5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.OOP4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.OOP3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.oop2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.oop1" />
       </list>
     </recent_temporary>
   </component>
@@ -692,27 +728,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1205/dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1206/shopping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1130/01_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1761">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1207/set.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1049">
@@ -746,13 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1769686295/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="499" column="4" selection-start-line="499" selection-start-column="4" selection-end-line="499" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -993,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1001,29 +1008,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1223/OOP4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1221/oop1.py">
+    <entry file="file://$PROJECT_DIR$/1222/OOP3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-          <folding>
-            <marker date="1482312521032" expanded="true" signature="484:2141" placeholder="..." />
-            <marker date="1482312521032" expanded="true" signature="693:843" placeholder="..." />
-            <marker date="1482312521032" expanded="true" signature="889:1173" placeholder="..." />
-            <marker date="1482312521032" expanded="true" signature="1215:1499" placeholder="..." />
-            <marker date="1482312521032" expanded="true" signature="1553:1879" placeholder="..." />
-            <marker date="1482312521032" expanded="true" signature="1913:2141" placeholder="..." />
-          </folding>
+        <state relative-caret-position="990">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1221/oop2.py">
+    <entry file="file://$PROJECT_DIR$/1221/OOP2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="44">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1769686295/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="602" column="0" selection-start-line="602" selection-start-column="0" selection-end-line="602" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1223/OOP5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1221/OOP1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
           <folding />
         </state>
       </provider>
