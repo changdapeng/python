@@ -1,20 +1,20 @@
-# 1、安装python3.4 (CentOS6.5)
+## 1、安装python3.4 (CentOS 6.5)
 这里我们选择python3.4版本，首先是因为python3是python发展的趋势，拥有更好更简洁的语言设计，同时也是因为后期我们的Django项目1.9.5适用于python3.4
 
-** 1.1 首先我们先安装以下Python的依赖包: **
+**1.1 首先我们先安装以下Python的依赖包:**
 
 
     # yum groupinstall "Development tools"
     # yum -y install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gcc make
 
 
-** 1.2 我们将 python3.4.5 的源文件下载到 `/usr/local/src` 目录下：**
+**1.2 我们将 python3.4.5 的源文件下载到 `/usr/local/src` 目录下:**
 
 
     # wget https://www.python.org/ftp/python/3.4.5/Python-3.4.5.tar.xz
 
 
-** 1.3 解压缩并安装 **
+**1.3 解压缩并安装**
 
 
     # tar Jxvf Python-3.4.5.tar.xz
@@ -24,7 +24,7 @@
 
 
 
-** 1.4 修改 `/usr/bin/` 目录下的python相关文件 **
+**1.4 修改 `/usr/bin/` 目录下的python相关文件**
 默认系统使用的 `python` , `pip` 等相关命令使用的是Python2.6，我们修改为我们新安装的python3.4
 
 将 `/usr/local/python34/bin/` 下面的可执行文件都考到 `/usr/bin/` 目录下，进行修改：
@@ -39,7 +39,7 @@
     # ln -s easy_install-3.4 easy_install
  
 
-** 1.5 查看python等安装情况 **
+**1.5 查看python等安装情况**
 
 
     # python --version
@@ -51,14 +51,14 @@
 
 
 
-# 2、Python虚拟环境安装
+## 2、Python虚拟环境安装
 
 
     $ sudo pip install virtualenv
     $ sudo pip install virtualenvwrapper
 
 
-# 3、上述工具装好后找不到mkvirtualenv命令，需要执行以下环境变量设置
+## 3、上述工具装好后找不到mkvirtualenv命令，需要执行以下环境变量设置
 
 
     1.创建目录用来存放虚拟环境
@@ -76,10 +76,11 @@
 如果设置完环境变量后还是不行，每次在workon 之前，先执行
 
 
-   $  source /usr/local/python34/bin/virtualenvwrapper.sh
+    source /usr/local/bin/virtualenvwrapper.sh
 
 
-# 4、虚拟环境相关操作
+
+## 4、虚拟环境相关操作
 
 
     mkvirtualenv [虚拟环境名称]
