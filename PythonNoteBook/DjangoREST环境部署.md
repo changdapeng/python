@@ -22,6 +22,8 @@
     ipython==4.1.2
     httpie==0.9.3
     coreapi==2.1.1
+    Pillow==4.0.0
+
 
 
 
