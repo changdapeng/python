@@ -53,7 +53,7 @@ else:
     password = input("password:")
 
     if username == user and password == passwd:
-        print("you are righr, you can go in !!!")
+        print("you are right, you can go in !!!")
     else:
         print("your username or password is not right please input it again:")
 
