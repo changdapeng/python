@@ -7,6 +7,11 @@ AUTHOR_NAME = "CDP"
 
 age = 25
 
+
+print("hello "\
+      + "world")
+
+
 """
 # 判断一次，使用if判断
 guess_num = int(input("input your age:"))
